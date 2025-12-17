@@ -13,6 +13,7 @@ Este projeto foi desenvolvido com o objetivo de praticar e consolidar conceitos 
 - Centralização de elementos
 - Organização de layout
 
+
 ## Tecnologias utilizadas
 - HTML5
 - CSS3
